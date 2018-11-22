@@ -5,6 +5,7 @@ CACHE:
 js/app.js
 js/carService.js
 js/clientStorage.js
+js/swRegister.js
 js/template.js
 resources/es6-promise/es6-promise.js
 resources/es6-promise/es6-promise.map
@@ -12,8 +13,9 @@ resources/fetch/fetch.js
 resources/localforage/localforage.min.js
 resources/localforage/localforage-getitems.js
 resources/localforage/localforage-setitems.js
-node_modules/material-design-lite/material.min.js
-node_modules/material-design-lite/dist/material.red-indigo.min.css
+resources/material-design-lite/material.min.js
+resources/material-design-lite/material.min.js.map
+resources/material-design-lite/material.red-indigo.min.css
 resources/systemjs/system.js
 resources/systemjs/system-polyfills.js
 resources/systemjs/system-polyfills.js.map
